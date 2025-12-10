@@ -1,0 +1,3 @@
+#!/bin/bash
+# creates empty file called hello
+touch hello
