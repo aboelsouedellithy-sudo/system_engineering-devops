@@ -1,4 +1,0 @@
-#!/bin/bash
-whoami
-eof
-chmod +x 1-who_am_i
