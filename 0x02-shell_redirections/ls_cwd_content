@@ -1,0 +1,13 @@
+total 44
+-rw-r--r-- 1 aboelsoud aboelsoud   12 Dec 11 12:34 *'"Best School"'*$\?*****:)
+drwxr-xr-x 2 aboelsoud aboelsoud 4096 Dec 11 12:37 .
+drwxr-xr-x 7 aboelsoud aboelsoud 4096 Dec 11 12:10 ..
+-rwxr-xr-x 1 aboelsoud aboelsoud   33 Dec 11 12:11 0-hello_world
+-rwxr-xr-x 1 aboelsoud aboelsoud   25 Dec 11 12:29 1-confused_smiley
+-rwxr-xr-x 1 aboelsoud aboelsoud   28 Dec 11 12:30 2-hellofile
+-rwxr-xr-x 1 aboelsoud aboelsoud   39 Dec 11 12:31 3-twofiles
+-rwxr-xr-x 1 aboelsoud aboelsoud   29 Dec 11 12:31 4-lastlines
+-rwxr-xr-x 1 aboelsoud aboelsoud   29 Dec 11 12:32 5-firstlines
+-rwxr-xr-x 1 aboelsoud aboelsoud   29 Dec 11 12:33 6-lastlines
+-rwxr-xr-x 1 aboelsoud aboelsoud   36 Dec 11 12:37 8-cwd_state
+-rw-r--r-- 1 aboelsoud aboelsoud    0 Dec 11 12:38 ls_cwd_content
