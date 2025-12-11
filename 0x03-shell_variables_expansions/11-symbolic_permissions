@@ -1,0 +1,7 @@
+#!/bin/bash
+FILE=$1
+[ -z "$FILE" ] && FILE="my_file"
+chmod u+x "$FILE"
+chmod g-w "$FILE"
+chmod o=r "$FILE"
+ls -l "$FILE"

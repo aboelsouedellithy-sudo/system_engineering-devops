@@ -1,0 +1,5 @@
+#!/bin/bash
+# Usage: ./10-change_group filename groupname
+FILENAME=$1
+GROUPNAME=$2
+chgrp $GROUPNAME $FILENAME
