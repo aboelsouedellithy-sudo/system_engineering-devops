@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# Prints filenames but only the part after the first dash
+
+for file in *
+do
+    # Skip hidden files (shouldn't match *) and ensure we actually have a dash
+    if [[ "$file" == *-* ]]; then
+        echo "${file#*-}"
+    else
+        echo "$file"
+    fi
+done
