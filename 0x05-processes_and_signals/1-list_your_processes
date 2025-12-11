@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# List all running processes with a user-oriented format, including processes without TTY, showing hierarchy
+
+ps -ef --forest
